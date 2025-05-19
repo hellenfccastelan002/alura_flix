@@ -37,9 +37,9 @@ body{
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
-    color: var(--botao-azul)
+    color: var(--branco-principal)
     display: block;
-    textfield-decoration:
+    textfield-decoration: none;
 }
 
 .botao_secundario{
